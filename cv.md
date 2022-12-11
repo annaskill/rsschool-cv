@@ -6,11 +6,17 @@
 * Telegram: @annaskill
 * Discord: annaskill
 
-Skills
-HTML&CSS
-Git
-Figma
-Photoshop
-Languages
-Russian - native speaker
-English - A1 
+## Skills
+* HTML&CSS
+* Git
+* Figma
+* Photoshop
+
+## Code Example
+```function multiply(a,b){
+  return a * b
+}
+```
+## Languages
+* Russian - native speaker
+* English - A1 
