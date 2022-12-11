@@ -13,10 +13,12 @@
 * Photoshop
 
 ## Code Example
-```function multiply(a,b){
+```javascript
+function multiply(a,b){
   return a * b
-}
+};
 ```
+
 ## Languages
 * Russian - native speaker
 * English - A1 
